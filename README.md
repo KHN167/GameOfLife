@@ -13,3 +13,9 @@ Diverse Life Forms: Explore a variety of life forms, each with its own distinct 
 Customizable Attributes: Modify and customize the attributes of life forms to observe their impact on the dynamics of the simulation. Experiment with different parameters to study the evolution and resilience of life forms in varying environments.
 
 Educational Tool: Ideal for both beginners and experienced programmers, this project serves as an educational resource for understanding concepts such as cellular automata, graphical user interface design, and object-oriented programming principles.
+
+How to Use:
+
+Clone the repository to your local machine.
+Compile the Java source files using your preferred Java development environment or command-line tools.
+Run the application and explore the interactive GUI to observe the fascinating dynamics of the Game of Life and its diverse life forms.
