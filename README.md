@@ -19,3 +19,4 @@ How to Use:
 Clone the repository to your local machine.
 Compile the Java source files using your preferred Java development environment or command-line tools.
 Run the application and explore the interactive GUI to observe the fascinating dynamics of the Game of Life and its diverse life forms.
+![image](https://github.com/KHN167/GameOfLife/assets/79406139/78846a87-dd11-4448-864e-a08f9d81aa9c)
